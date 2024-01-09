@@ -4,6 +4,8 @@
     "type": "library",
     "license": "MIT",
     "require": {},
+    "version": "1.0.0",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "uuid\\": "src"
@@ -11,7 +13,5 @@
         "files": [
             "src/uuid.php"
         ]
-    },
-    "version": "1.0.0",
-    "minimum-stability": "dev"
+    }
 }
