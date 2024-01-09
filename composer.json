@@ -1,6 +1,7 @@
 {
     "name": "xavierh622/uuid",
-    "description": "UUID Version4 Generation",
+    "description": "UUID Version 4 Generation",
+    "version": 1.0.0,
     "type": "library",
     "license": "MIT",
     "require": {},
