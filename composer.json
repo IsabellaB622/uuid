@@ -12,5 +12,6 @@
         "files": [
             "src/uuid.php"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
