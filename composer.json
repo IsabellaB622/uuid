@@ -1,0 +1,15 @@
+{
+    "name": "xavierh622/uuid",
+    "description": "UUID Version4 Generation",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "uuid\\": "src"
+        },
+        "files": [
+            "src/uuid.php"
+        ]
+    }
+}
