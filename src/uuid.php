@@ -1,6 +1,6 @@
 <?php
 
-namespace XavierH622;
+namespace IsabellaB622;
 
 class uuid {
 	public static function generate_v4(){
